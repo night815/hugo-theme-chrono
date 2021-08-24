@@ -1,0 +1,12 @@
+name = "Chrono"
+license = "MIT"
+licenselink = "https://github.com/night815/hugo-theme-chrono/blob/master/LICENSE"
+description = ""
+homepage = "https://github.com/night815/hugo-theme-chrono"
+tags = []
+features = ["website","blog","resume"]
+min_version = "0.82.0"
+
+[author]
+  name = "Samuel Bortle"
+  homepage = "https://samuelbortle.com/"
