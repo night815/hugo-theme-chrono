@@ -1,11 +1,11 @@
 name = "Chrono"
 license = "MIT"
 licenselink = "https://github.com/night815/hugo-theme-chrono/blob/master/LICENSE"
-description = ""
+description = "Hugo Theme for personal resume and writing"
 homepage = "https://github.com/night815/hugo-theme-chrono"
-tags = []
+tags = ["blog"]
 features = ["website","blog","resume"]
-min_version = "0.82.0"
+min_version = "0.92.0"
 
 [author]
   name = "Samuel Bortle"
